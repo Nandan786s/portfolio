@@ -1,2 +1,2 @@
 # portfolio
-mY Resume
+My Resume
